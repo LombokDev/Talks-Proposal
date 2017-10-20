@@ -1,12 +1,12 @@
 # Talks-Proposal
-Anda punya ide materi untuk dibagikan? Silahkan masukan proposal anda!
+Anda punya ide materi untuk dibagikan? Silahkan masukan proposal Anda!
 
 # Cara Submit Proposal
 1. Buat _issue_ baru pada [link tambah issue](https://github.com/LombokDevMeetup/Talks-Proposal/issues/new)
 2. Isikan judul materi anda pada kolom _title_/judul dengan Format. __Konsep Talk__ - __Judul__
-3. Isikan overview/sekilas tentang materi yang ingin anda sampaikan. Tidak lebih dari 150 karakter
+3. Isikan overview/sekilas tentang materi yang ingin Anda sampaikan. Tidak lebih dari 150 karakter
 
-__Anda akan menerima email dari github jika proposal anda telah kami jadwalkan.__
+__Anda akan menerima email dari github jika proposal Anda telah kami jadwalkan.__
 
 ## Konsep Talk
 Konsep _talk_ yang bisa anda pilih ada 2:
