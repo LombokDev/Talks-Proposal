@@ -1,5 +1,5 @@
 # Talks-Proposal
-Anda punya ide materi untuk dibagikan? Silahkan masukan proposal Anda!
+Anda punya ide materi untuk dibagikan? Silakan masukan proposal Anda!
 
 # Cara Submit Proposal
 1. Buat _issue_ baru pada [link tambah issue](https://github.com/LombokDevMeetup/Talks-Proposal/issues/new)
