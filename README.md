@@ -10,5 +10,5 @@ __Anda akan menerima email dari github jika proposal Anda telah kami jadwalkan._
 
 ## Konsep Talk
 Konsep _talk_ yang bisa Anda pilih ada 2:
-1. [___Lightning Talk___](https://github.com/LombokDevMeetup/event-concepts/blob/master/lightning-talks.md)
-2. [___Tech Talk___](https://github.com/LombokDevMeetup/event-concepts/blob/master/tech-talks.md)
+1. [___Lightning Talk___](https://github.com/LombokDev/wiki/blob/master/event-concepts/lightning-talk.md)
+2. [___Tech Talk___](https://github.com/LombokDev/wiki/blob/master/event-concepts/tech-talk.md)
